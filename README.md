@@ -30,23 +30,35 @@
 
 ### 재현 후보 · 구현 전
 
-| 저장소 | 재현 대상 업무 |
-| :--- | :--- |
-| [CRAFT-PyroSim](https://github.com/Yfacine/CRAFT-PyroSim) | 3D 화재·연기 모델과 FDS 해석 입력 준비 |
-| [CRAFT-Pathfinder](https://github.com/Yfacine/CRAFT-Pathfinder) | 보행자 이동과 피난 시나리오 비교 |
-| [CRAFT-Simulex](https://github.com/Yfacine/CRAFT-Simulex) | 층별 피난 경로와 대피 시간 분석 |
-| [CRAFT-Contam](https://github.com/Yfacine/CRAFT-Contam) | 구역 간 공기 흐름과 오염물 이동 분석 |
-| [CRAFT-Ventus](https://github.com/Yfacine/CRAFT-Ventus) | 환기·제연 모델링과 풍량·차압 분석 |
-| [CRAFT-Pipenet](https://github.com/Yfacine/CRAFT-Pipenet) | 배관망 구성과 유량·압력 해석 |
-| [CRAFT-AutoCAD](https://github.com/Yfacine/CRAFT-AutoCAD) | 도면 작성·편집과 반복 작업 |
-| [CRAFT-Vehicle-Tracking](https://github.com/Yfacine/CRAFT-Vehicle-Tracking) | 차량 회전 궤적과 통과 공간 검토 |
+<p>
+  <a href="https://github.com/Yfacine/CRAFT-PyroSim"><img src="assets/card-CRAFT-PyroSim.webp" width="407" alt="CRAFT-PyroSim. 3D 화재·연기 모델과 FDS 해석 입력 준비. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Pathfinder"><img src="assets/card-CRAFT-Pathfinder.webp" width="407" alt="CRAFT-Pathfinder. 보행자 이동과 피난 시나리오 비교. 재현 후보 · 구현 전."></a>
+</p>
+
+<p>
+  <a href="https://github.com/Yfacine/CRAFT-Simulex"><img src="assets/card-CRAFT-Simulex.webp" width="407" alt="CRAFT-Simulex. 층별 피난 경로와 대피 시간 분석. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Contam"><img src="assets/card-CRAFT-Contam.webp" width="407" alt="CRAFT-Contam. 구역 간 공기 흐름과 오염물 이동 분석. 재현 후보 · 구현 전."></a>
+</p>
+
+<p>
+  <a href="https://github.com/Yfacine/CRAFT-Ventus"><img src="assets/card-CRAFT-Ventus.webp" width="407" alt="CRAFT-Ventus. 환기·제연 모델링과 풍량·차압 분석. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Pipenet"><img src="assets/card-CRAFT-Pipenet.webp" width="407" alt="CRAFT-Pipenet. 배관망 구성과 유량·압력 해석. 재현 후보 · 구현 전."></a>
+</p>
+
+<p>
+  <a href="https://github.com/Yfacine/CRAFT-AutoCAD"><img src="assets/card-CRAFT-AutoCAD.webp" width="407" alt="CRAFT-AutoCAD. 도면 작성·편집과 반복 작업. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Vehicle-Tracking"><img src="assets/card-CRAFT-Vehicle-Tracking.webp" width="407" alt="CRAFT-Vehicle-Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전."></a>
+</p>
 
 [CRAFT 재현 후보군 전체 보기 ↗](https://github.com/Yfacine/CRAFT#재현-후보군)
 
 ### 그 밖의 공개 저장소
 
-| 저장소 | 주제 |
-| :--- | :--- |
-| [PASS_AI-FLY](https://github.com/Yfacine/PASS_AI-FLY) | Simulex·Contam 학습 주제 · 소개 문서만 공개 |
-| [PASS_AI-MCP](https://github.com/Yfacine/PASS_AI-MCP) | 소개 문서만 공개 |
-| [Asta-Profile](https://github.com/Yfacine/Asta-Profile) | 아스타 프로필 이미지 시안 |
+<p>
+  <a href="https://github.com/Yfacine/PASS_AI-FLY"><img src="assets/card-PASS_AI-FLY.webp" width="407" alt="PASS_AI-FLY. Simulex·Contam 학습 주제. 소개 문서만 공개."></a>
+  <a href="https://github.com/Yfacine/PASS_AI-MCP"><img src="assets/card-PASS_AI-MCP.webp" width="407" alt="PASS_AI-MCP. 공개 저장소 안내. 소개 문서만 공개."></a>
+</p>
+
+<p>
+  <a href="https://github.com/Yfacine/Asta-Profile"><img src="assets/card-Asta-Profile.webp" width="407" alt="Asta-Profile. 아스타 프로필 이미지 흑백·성장·픽셀 시안 30종. 디자인 자료 · 이미지 공개."></a>
+</p>

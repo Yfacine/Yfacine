@@ -1,29 +1,32 @@
-<p><sub><strong>YFACINE / ENGINEERING SOFTWARE</strong></sub></p>
+<p>
+  <a href="https://github.com/Yfacine/CRAFT">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/engineering-overview-compact.webp">
+      <img src="assets/engineering-overview.webp" width="1400" alt="Yfacine Engineering Software. 설계·해석 프로그램의 실무를 재현합니다. CRAFT, FIRE, DreamPlus의 업무를 아스타와 설계 도면으로 표현한 개념도.">
+    </picture>
+  </a>
+</p>
 
-# 설계·해석 프로그램의 실무를 재현합니다
+<p>
+  <a href="https://github.com/Yfacine/CRAFT/releases/latest"><img src="assets/link-download.webp" width="103" height="34" alt="CRAFT 받기"></a>
+  <a href="https://github.com/Yfacine/CRAFT#windows-x64-빠른-시작"><img src="assets/link-install.webp" width="92" height="34" alt="Windows 설치 안내"></a>
+  <a href="https://github.com/Yfacine/CRAFT#windows-cli-미리보기"><img src="assets/link-demo.webp" width="71" height="34" alt="CRAFT 실행 화면"></a>
+</p>
 
-소방·피난·환기·CAD의 업무를 분석하고, 같은 입력으로 결과를 비교합니다.
+## 01 / CRAFT부터 시작하기
 
-<a href="https://github.com/Yfacine/CRAFT"><img src="assets/asta-engineering-plate.webp" width="1536" alt="아스타가 건물 단면, 스프링클러 배치, CAD 도면을 검토하는 흑백 개념도"></a>
-
-**[CRAFT 받기 ↗](https://github.com/Yfacine/CRAFT/releases/latest)** · [Windows 설치 안내](https://github.com/Yfacine/CRAFT#windows-x64-빠른-시작) · [실행 화면](https://github.com/Yfacine/CRAFT#windows-cli-미리보기)
-
-## <sub>01 / START</sub>　CRAFT부터 시작하기
-
-**[CRAFT](https://github.com/Yfacine/CRAFT)**는 재현할 업무를 정하고, 분석 도구와 에이전트로 구현 계획을 세운 뒤 검증 결과를 기록하는 작업공간입니다.
+<strong><a href="https://github.com/Yfacine/CRAFT">CRAFT</a></strong>는 재현할 업무를 정하고, 분석 도구와 에이전트로 구현 계획을 세운 뒤 검증 결과를 기록하는 작업공간입니다.
 
 <sub>Windows x64 배포 · 작업 현황판 · 계획 및 검증 양식</sub>
 
-<a href="https://github.com/Yfacine/CRAFT#windows-cli-미리보기"><img src="assets/craft-cli-workflow.png" width="720" alt="CRAFT 저장소에 공개된 실제 Windows CLI 복제 작업 현황판"></a>
+<a href="https://github.com/Yfacine/CRAFT#windows-cli-미리보기"><img src="assets/craft-cli-workflow.png" width="480" alt="CRAFT 저장소에 공개된 실제 Windows CLI 복제 작업 현황판"></a>
 
-<sub>[CRAFT 실행 화면 ↗](https://github.com/Yfacine/CRAFT#windows-cli-미리보기)</sub>
+## 02 / 진행 중인 프로젝트
 
-## <sub>02 / WORK</sub>　진행 중인 프로젝트
-
-| AutoCAD 2024 | 개발 범위 |
-| :--- | :--- |
-| **[CRAFT-FIRE](https://github.com/Yfacine/CRAFT-FIRE)** | 소방설비 설계 기능을 위한 기반 구축 |
-| **[CRAFT-DreamPlus](https://github.com/Yfacine/CRAFT-DreamPlus)** | 코어 구축과 다중 플롯·XCLIP 경계 자르기 재현 준비 |
+<p>
+  <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="assets/project-fire.webp" width="407" alt="CRAFT-FIRE. AutoCAD 2024 소방설비 설계 기능 개발을 위한 기반 구축. 개발 중."></a>
+  <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="assets/project-dreamplus.webp" width="407" alt="CRAFT-DreamPlus. AutoCAD 2024 다중 플롯과 XCLIP 경계 자르기 재현 준비. 개발 중."></a>
+</p>
 
 ### 재현 후보 · 구현 전
 

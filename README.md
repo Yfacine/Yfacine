@@ -47,6 +47,6 @@
 
 | 저장소 | 주제 |
 | :--- | :--- |
-| [PASS_AI-FLY](https://github.com/Yfacine/PASS_AI-FLY) | Simulex·Contam 학습 주제 · 빈 저장소 |
-| [PASS_AI-MCP](https://github.com/Yfacine/PASS_AI-MCP) | 빈 저장소 |
+| [PASS_AI-FLY](https://github.com/Yfacine/PASS_AI-FLY) | Simulex·Contam 학습 주제 · 소개 문서만 공개 |
+| [PASS_AI-MCP](https://github.com/Yfacine/PASS_AI-MCP) | 소개 문서만 공개 |
 | [Asta-Profile](https://github.com/Yfacine/Asta-Profile) | 아스타 프로필 이미지 시안 |

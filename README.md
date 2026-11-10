@@ -21,7 +21,7 @@
 
 <a href="https://github.com/Yfacine/CRAFT#windows-cli-미리보기"><img src="assets/craft-cli-workflow.png" width="480" alt="CRAFT 저장소에 공개된 실제 Windows CLI 복제 작업 현황판"></a>
 
-## 02 / CRAFT 프로젝트 · FIRE와 DreamPlus는 기본 안내 공개
+## 02 / CRAFT 프로젝트 현황
 
 <p>
   <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/project-fire.webp" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트 표지. 기본 안내 공개."></a>

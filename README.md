@@ -23,6 +23,8 @@
 
 ## 02 / CRAFT 프로젝트 현황
 
+### 재현 후보 · 구현 중
+
 <p>
   <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/project-fire.webp" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트 표지. 기본 안내 공개."></a>
   <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/project-dreamplus.webp" width="420" alt="CRAFT-DreamPlus. 다중 플롯과 XCLIP 프로젝트 표지. 기본 안내 공개."></a>

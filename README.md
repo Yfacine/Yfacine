@@ -21,11 +21,11 @@
 
 <a href="https://github.com/Yfacine/CRAFT#windows-cli-미리보기"><img src="assets/craft-cli-workflow.png" width="480" alt="CRAFT 저장소에 공개된 실제 Windows CLI 복제 작업 현황판"></a>
 
-## 02 / 진행 중인 프로젝트
+## 02 / CRAFT 프로젝트 · FIRE와 DreamPlus는 기본 안내 공개
 
 <p>
-  <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/project-fire.webp" width="420" alt="CRAFT-FIRE. AutoCAD 2024 소방설비 설계 기능 개발을 위한 기반 구축. 개발 중."></a>
-  <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/project-dreamplus.webp" width="420" alt="CRAFT-DreamPlus. AutoCAD 2024 다중 플롯과 XCLIP 경계 자르기 재현 준비. 개발 중."></a>
+  <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/repositories/CRAFT-FIRE.webp" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트 표지. 기본 안내 공개."></a>
+  <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/repositories/CRAFT-DreamPlus.webp" width="420" alt="CRAFT-DreamPlus. 다중 플롯과 XCLIP 프로젝트 표지. 기본 안내 공개."></a>
 </p>
 
 ### 재현 후보 · 구현 전

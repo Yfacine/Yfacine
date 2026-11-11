@@ -14,6 +14,8 @@
 
 Windows CLI 현황판은 작업의 여섯 단계와 MAIN·SUB 상태, 확인된 인계 및 Gate를 표시합니다. 상태는 MAIN이 기록한 내용을 기반으로 합니다.
 
+<img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/presentation/v0.1/opencraft-cli-demo.png" width="480" alt="OpenCraft Windows CLI 작업 현황판 시연 화면. 실제 실행 진행 상황이 아닌 DEMO 예시입니다.">
+
 ## 02 / OpenCraft 프로젝트 현황
 
 ### 재현 후보 · 구현 중
@@ -23,16 +25,16 @@ Windows CLI 현황판은 작업의 여섯 단계와 MAIN·SUB 상태, 확인된 
 아래 후보의 공개 저장소 주소는 현재 확인되지 않아 카드 링크를 연결하지 않았습니다.
 
 <p>
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-FIRE.svg" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-DreamPlus.svg" width="420" alt="CRAFT-DreamPlus. 다중 플롯과 XCLIP 프로젝트. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-PyroSim.svg" width="420" alt="CRAFT-PyroSim. 3D 화재·연기 모델과 FDS 해석 입력 준비. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Pathfinder.svg" width="420" alt="CRAFT-Pathfinder. 보행자 이동과 피난 시나리오 비교. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Simulex.svg" width="420" alt="CRAFT-Simulex. 층별 피난 경로와 대피 시간 분석. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Contam.svg" width="420" alt="CRAFT-Contam. 구역 간 공기 흐름과 오염물 이동 분석. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Ventus.svg" width="420" alt="CRAFT-Ventus. 환기·제연 모델링과 풍량·차압 분석. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Pipenet.svg" width="420" alt="CRAFT-Pipenet. 배관망 구성과 유량·압력 해석. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-AutoCAD.svg" width="420" alt="CRAFT-AutoCAD. 도면 작성·편집과 반복 작업. 재현 후보 · 구현 전.">
-  <img src="assets/cards/v0.1/CRAFT-Vehicle-Tracking.svg" width="420" alt="Craft-Vehicle Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-FIRE.svg" width="420" alt="Craft-FIRE. 소방설비 설계 프로젝트. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-DreamPlus.svg" width="420" alt="Craft-DreamPlus. 다중 플롯과 XCLIP 프로젝트. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-PyroSim.svg" width="420" alt="Craft-PyroSim. 3D 화재·연기 모델과 FDS 해석 입력 준비. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Pathfinder.svg" width="420" alt="Craft-Pathfinder. 보행자 이동과 피난 시나리오 비교. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Simulex.svg" width="420" alt="Craft-Simulex. 층별 피난 경로와 대피 시간 분석. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Contam.svg" width="420" alt="Craft-Contam. 구역 간 공기 흐름과 오염물 이동 분석. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Ventus.svg" width="420" alt="Craft-Ventus. 환기·제연 모델링과 풍량·차압 분석. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Pipenet.svg" width="420" alt="Craft-Pipenet. 배관망 구성과 유량·압력 해석. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-AutoCAD.svg" width="420" alt="Craft-AutoCAD. 도면 작성·편집과 반복 작업. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Vehicle-Tracking.svg" width="420" alt="Craft-Vehicle Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전.">
 </p>
 
 [카드 제작 및 배치 기준 v0.1](docs/card-guidelines.md)

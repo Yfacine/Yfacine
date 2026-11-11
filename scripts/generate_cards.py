@@ -17,7 +17,7 @@ CARDS = [
     ("Craft-Ventus", "07 / VENTILATION", "Craft-Ventus", "환기·제연 모델링과", "풍량·차압 분석", "재현 후보 · 구현 전", "ventus"),
     ("Craft-Pipenet", "08 / PIPE NETWORK", "Craft-Pipenet", "배관망 구성과", "유량·압력 해석", "재현 후보 · 구현 전", "pipenet"),
     ("Craft-AutoCAD", "09 / CAD WORKFLOW", "Craft-AutoCAD", "도면 작성·편집과", "반복 작업", "재현 후보 · 구현 전", "cad"),
-    ("Craft-Vehicle-Tracking", "10 / VEHICLE TRACKING", "Craft-Vehicle Tracking", "차량 회전 궤적과", "통과 공간 검토", "재현 후보 · 구현 전", "vehicle"),
+    ("Craft-Vehicle Tracking", "10 / VEHICLE TRACKING", "Craft-Vehicle Tracking", "차량 회전 궤적과", "통과 공간 검토", "재현 후보 · 구현 전", "vehicle"),
     ("PASS_AI-FLY", "11 / LEARNING", "PASS_AI-FLY", "Simulex·Contam", "학습 주제", "소개 문서만 공개", "fly"),
     ("PASS_AI-MCP", "12 / INTEGRATION", "PASS_AI-MCP", "공개 저장소", "프로젝트 안내", "소개 문서만 공개", "mcp"),
     ("Asta-Profile", "13 / DESIGN", "Asta-Profile", "프로필 시안 30종", "저장소 삽화 13종", "디자인 자료 · 이미지 공개", "asta"),
@@ -27,7 +27,7 @@ CARDS = [
 UNLINKED = {
     "Craft-FIRE", "Craft-DreamPlus", "Craft-PyroSim", "Craft-Pathfinder",
     "Craft-Simulex", "Craft-Contam", "Craft-Ventus", "Craft-Pipenet",
-    "Craft-AutoCAD", "Craft-Vehicle-Tracking",
+    "Craft-AutoCAD", "Craft-Vehicle Tracking",
 }
 
 def render(row):

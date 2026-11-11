@@ -6,15 +6,15 @@
 </p>
 
 
-## 01 / CRAFT 소개
+## 01 / OpenCraft 소개
 
-**CRAFT**는 재현할 업무를 정하고, 분석 도구와 에이전트로 구현 계획을 세운 뒤 검증 결과를 기록하는 작업공간입니다. 현재 공개 저장소와 배포 주소는 확인되지 않아 다운로드 링크를 제공하지 않습니다.
+**OpenCraft**는 재현할 업무를 정하고, 분석 도구와 에이전트로 구현 계획을 세운 뒤 검증 결과를 기록하는 작업공간입니다. 현재 공개 저장소와 배포 주소는 확인되지 않아 다운로드 링크를 제공하지 않습니다.
 
 <sub>Windows x64 배포 이력 · 작업 현황판 · 계획 및 검증 양식</sub>
 
-<img src="assets/presentation/v0.1/craft-cli-workflow.png" width="480" alt="CRAFT Windows CLI 작업 현황판 예시">
+Windows CLI 현황판은 작업의 여섯 단계와 MAIN·SUB 상태, 확인된 인계 및 Gate를 표시합니다. 상태는 MAIN이 기록한 내용을 기반으로 합니다.
 
-## 02 / CRAFT 프로젝트 현황
+## 02 / OpenCraft 프로젝트 현황
 
 ### 재현 후보 · 구현 중
 
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Ventus.svg" width="420" alt="CRAFT-Ventus. 환기·제연 모델링과 풍량·차압 분석. 재현 후보 · 구현 전.">
   <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Pipenet.svg" width="420" alt="CRAFT-Pipenet. 배관망 구성과 유량·압력 해석. 재현 후보 · 구현 전.">
   <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-AutoCAD.svg" width="420" alt="CRAFT-AutoCAD. 도면 작성·편집과 반복 작업. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/CRAFT-Vehicle-Tracking.svg" width="420" alt="Vehicle Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전.">
+  <img src="assets/cards/v0.1/CRAFT-Vehicle-Tracking.svg" width="420" alt="Craft-Vehicle Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전.">
 </p>
 
 [카드 제작 및 배치 기준 v0.1](docs/card-guidelines.md)

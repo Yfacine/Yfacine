@@ -10,7 +10,7 @@
 
 **OpenCraft**는 재현할 업무를 정하고, 분석 도구와 에이전트로 구현 계획을 세운 뒤 검증 결과를 기록하는 작업공간입니다. 현재 공개 저장소와 배포 주소는 확인되지 않아 다운로드 링크를 제공하지 않습니다.
 
-<sub>Windows x64 배포 이력 · 작업 현황판 · 계획 및 검증 양식</sub>
+Windows x64 배포 이력 · 작업 현황판 · 계획 및 검증 양식
 
 Windows CLI 현황판은 작업의 여섯 단계와 MAIN·SUB 상태, 확인된 인계 및 Gate를 표시합니다. 상태는 MAIN이 기록한 내용을 기반으로 합니다.
 
@@ -21,8 +21,6 @@ Windows CLI 현황판은 작업의 여섯 단계와 MAIN·SUB 상태, 확인된 
 ### 재현 후보 · 구현 중
 
 ### 재현 후보 · 구현 전
-
-아래 후보의 공개 저장소 주소는 현재 확인되지 않아 카드 링크를 연결하지 않았습니다.
 
 <p>
   <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/8191163d67e8d69bb17eb9f8d1442ee884aeac20/assets/cards/v0.1/Craft-FIRE.svg" width="420" alt="Craft-FIRE. 소방설비 설계 프로젝트. 재현 후보 · 구현 전.">

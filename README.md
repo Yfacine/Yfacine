@@ -28,11 +28,9 @@
 ### 재현 후보 · 구현 전
 
 <p>
-  <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/project-fire.webp" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트 표지. 기본 안내 공개."></a>
-  <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/project-dreamplus.webp" width="420" alt="CRAFT-DreamPlus. 다중 플롯과 XCLIP 프로젝트 표지. 기본 안내 공개."></a>
-</p>
+  <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="assets/card-CRAFT-FIRE-upcoming.png" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="assets/card-CRAFT-DreamPlus-upcoming.png" width="420" alt="CRAFT-DreamPlus. 다중 플롯과 XCLIP 프로젝트. 재현 후보 · 구현 전."></a>
 
-<p>
   <a href="https://github.com/Yfacine/CRAFT-PyroSim"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/card-CRAFT-PyroSim.webp" width="420" alt="CRAFT-PyroSim. 3D 화재·연기 모델과 FDS 해석 입력 준비. 재현 후보 · 구현 전."></a>
   <a href="https://github.com/Yfacine/CRAFT-Pathfinder"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/card-CRAFT-Pathfinder.webp" width="420" alt="CRAFT-Pathfinder. 보행자 이동과 피난 시나리오 비교. 재현 후보 · 구현 전."></a>
   <a href="https://github.com/Yfacine/CRAFT-Simulex"><img src="https://github.com/Yfacine/Yfacine/raw/964ea8121274f17acd2adfcf313e647b98adfc0e/assets/card-CRAFT-Simulex.webp" width="420" alt="CRAFT-Simulex. 층별 피난 경로와 대피 시간 분석. 재현 후보 · 구현 전."></a>

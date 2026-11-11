@@ -1,7 +1,7 @@
 <p>
   <picture>
     <source media="(max-width: 600px)" srcset="assets/presentation/v0.1/engineering-overview-compact.webp">
-    <img src="assets/presentation/v0.1/engineering-overview.webp" width="1400" alt="Yfacine Engineering Software. 설계·해석 프로그램의 실무를 재현합니다. CRAFT, FIRE, DreamPlus의 업무를 아스타와 설계 도면으로 표현한 개념도.">
+    <img src="assets/presentation/v0.1/engineering-overview.webp" width="1400" alt="Yfacine Engineering Software. 건축 설비, 화재·피난, 공기 흐름, 차량 궤적, CAD와 학습·연결을 아스타와 함께 표현한 개념도.">
   </picture>
 </p>
 

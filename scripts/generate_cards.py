@@ -4,7 +4,7 @@ from pathlib import Path
 from base64 import b64encode
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "assets" / "cards" / "v2"
+OUT = ROOT / "assets" / "cards" / "v3"
 # slug, sequence/label, title, two description lines, footer, illustration
 CARDS = [
     ("CRAFT-FIRE", "01 / FIRE PROTECTION", "CRAFT-FIRE", "AutoCAD 소방설비 설계", "재현 후보", "재현 후보 · 구현 전", "building"),
@@ -28,9 +28,10 @@ def render(row):
     art_data = b64encode((ROOT / "assets" / "card-illustrations" / f"{art}.jpg").read_bytes()).decode("ascii")
     # The content is clipped to the card, while the canvas margins stay transparent.
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="744" height="298" viewBox="0 0 744 298" role="img" aria-label="{escape(title)} · {escape(status)}">
-<defs><clipPath id="frame"><rect x="12" y="0" width="720" height="276"/></clipPath></defs>
+<defs><clipPath id="frame"><rect x="12" y="0" width="720" height="276"/></clipPath><linearGradient id="textfade"><stop offset="0" stop-color="#fff"/><stop offset=".78" stop-color="#fff" stop-opacity=".97"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
 <g clip-path="url(#frame)"><rect x="12" y="0" width="720" height="276" fill="#f5f5f5"/>
 <image x="12" y="0" width="720" height="226" preserveAspectRatio="xMaxYMax slice" href="data:image/jpeg;base64,{art_data}"/>
+<rect x="12" y="0" width="500" height="226" fill="url(#textfade)"/>
 <rect x="12.5" y=".5" width="719" height="275" fill="none" stroke="#a5a5a5"/>
 <g font-family="Arial, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" fill="#151515">
 <text x="38" y="44" font-family="monospace" font-weight="700" font-size="17" letter-spacing="1">{escape(label)}</text>

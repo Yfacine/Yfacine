@@ -1,7 +1,7 @@
 <p>
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/engineering-overview-compact.webp">
-    <img src="assets/engineering-overview.webp" width="1400" alt="Yfacine Engineering Software. 설계·해석 프로그램의 실무를 재현합니다. CRAFT, FIRE, DreamPlus의 업무를 아스타와 설계 도면으로 표현한 개념도.">
+    <source media="(max-width: 600px)" srcset="assets/presentation/v0.1/engineering-overview-compact.webp">
+    <img src="assets/presentation/v0.1/engineering-overview.webp" width="1400" alt="Yfacine Engineering Software. 설계·해석 프로그램의 실무를 재현합니다. CRAFT, FIRE, DreamPlus의 업무를 아스타와 설계 도면으로 표현한 개념도.">
   </picture>
 </p>
 
@@ -12,7 +12,7 @@
 
 <sub>Windows x64 배포 이력 · 작업 현황판 · 계획 및 검증 양식</sub>
 
-<img src="assets/craft-cli-workflow.png" width="480" alt="CRAFT Windows CLI 작업 현황판 예시">
+<img src="assets/presentation/v0.1/craft-cli-workflow.png" width="480" alt="CRAFT Windows CLI 작업 현황판 예시">
 
 ## 02 / CRAFT 프로젝트 현황
 

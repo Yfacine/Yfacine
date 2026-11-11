@@ -20,12 +20,20 @@ CARDS = [
     ("CRAFT-Vehicle-Tracking", "10 / VEHICLE TRACKING", "Vehicle Tracking", "차량 회전 궤적과", "통과 공간 검토", "재현 후보 · 구현 전", "vehicle"),
     ("PASS_AI-FLY", "11 / LEARNING", "PASS_AI-FLY", "Simulex·Contam", "학습 주제", "소개 문서만 공개", "fly"),
     ("PASS_AI-MCP", "12 / INTEGRATION", "PASS_AI-MCP", "공개 저장소", "프로젝트 안내", "소개 문서만 공개", "mcp"),
-    ("Asta-Profile", "13 / DESIGN", "Asta-Profile", "아스타 프로필 이미지", "흑백·성장·픽셀 시안 30종", "디자인 자료 · 이미지 공개", "asta"),
+    ("Asta-Profile", "13 / DESIGN", "Asta-Profile", "프로필 시안 30종", "저장소 삽화 13종", "디자인 자료 · 이미지 공개", "asta"),
 ]
+
+# 공개 접근이 확인되면 해당 항목을 제거하고 README 링크를 복구한다.
+UNLINKED = {
+    "CRAFT-FIRE", "CRAFT-DreamPlus", "CRAFT-PyroSim", "CRAFT-Pathfinder",
+    "CRAFT-Simulex", "CRAFT-Contam", "CRAFT-Ventus", "CRAFT-Pipenet",
+    "CRAFT-AutoCAD", "CRAFT-Vehicle-Tracking",
+}
 
 def render(row):
     slug, label, title, line1, line2, status, art = row
     title_size = 48 if len(title) <= 17 else (39 if len(title) <= 20 else 31)
+    cta = "공개 주소 확인 중" if slug in UNLINKED else "저장소 보기 ↗"
     art_data = b64encode((ROOT / "assets" / "card-illustrations" / "v0.1" / f"{art}.jpg").read_bytes()).decode("ascii")
     # The content is clipped to the card, while the canvas margins stay transparent.
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="744" height="298" viewBox="0 0 744 298" role="img" aria-label="{escape(title)} · {escape(status)}">
@@ -39,7 +47,7 @@ def render(row):
 <text x="38" y="101" font-size="{title_size}" font-weight="700" letter-spacing="-1.5">{escape(title)}</text>
 <text x="38" y="145" font-size="21">{escape(line1)}</text><text x="38" y="174" font-size="21">{escape(line2)}</text></g>
 <rect x="13" y="226" width="718" height="49" fill="#202020"/>
-<g fill="#fff" font-family="Arial, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-weight="700" font-size="19"><text x="38" y="257">{escape(status)}</text><text x="704" y="257" text-anchor="end">저장소 보기 ↗</text></g></g></svg>\n'''
+<g fill="#fff" font-family="Arial, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-weight="700" font-size="19"><text x="38" y="257">{escape(status)}</text><text x="704" y="257" text-anchor="end">{cta}</text></g></g></svg>\n'''
 
 if __name__ == "__main__":
     OUT.mkdir(parents=True, exist_ok=True)
@@ -47,5 +55,6 @@ if __name__ == "__main__":
     for row in CARDS:
         card = render(row)
         (OUT / f"{row[0]}.svg").write_text(card, encoding="utf-8", newline="\n")
-        (COVERS / f"{row[0]}.svg").write_text(card.replace("저장소 보기 ↗", "YFACINE"), encoding="utf-8", newline="\n")
+        cover = card.replace("저장소 보기 ↗", "YFACINE").replace("공개 주소 확인 중", "YFACINE")
+        (COVERS / f"{row[0]}.svg").write_text(cover, encoding="utf-8", newline="\n")
     print(f"Generated {len(CARDS)} cards and covers in {OUT} and {COVERS}")

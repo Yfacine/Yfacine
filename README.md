@@ -28,16 +28,16 @@
 ### 재현 후보 · 구현 전
 
 <p>
-  <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="assets/cards/v1/CRAFT-FIRE.svg" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="assets/cards/v1/CRAFT-DreamPlus.svg" width="420" alt="CRAFT-DreamPlus. 다중 플롯과 XCLIP 프로젝트. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-PyroSim"><img src="assets/cards/v1/CRAFT-PyroSim.svg" width="420" alt="CRAFT-PyroSim. 3D 화재·연기 모델과 FDS 해석 입력 준비. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-Pathfinder"><img src="assets/cards/v1/CRAFT-Pathfinder.svg" width="420" alt="CRAFT-Pathfinder. 보행자 이동과 피난 시나리오 비교. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-Simulex"><img src="assets/cards/v1/CRAFT-Simulex.svg" width="420" alt="CRAFT-Simulex. 층별 피난 경로와 대피 시간 분석. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-Contam"><img src="assets/cards/v1/CRAFT-Contam.svg" width="420" alt="CRAFT-Contam. 구역 간 공기 흐름과 오염물 이동 분석. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-Ventus"><img src="assets/cards/v1/CRAFT-Ventus.svg" width="420" alt="CRAFT-Ventus. 환기·제연 모델링과 풍량·차압 분석. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-Pipenet"><img src="assets/cards/v1/CRAFT-Pipenet.svg" width="420" alt="CRAFT-Pipenet. 배관망 구성과 유량·압력 해석. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-AutoCAD"><img src="assets/cards/v1/CRAFT-AutoCAD.svg" width="420" alt="CRAFT-AutoCAD. 도면 작성·편집과 반복 작업. 재현 후보 · 구현 전."></a>
-  <a href="https://github.com/Yfacine/CRAFT-Vehicle-Tracking"><img src="assets/cards/v1/CRAFT-Vehicle-Tracking.svg" width="420" alt="CRAFT-Vehicle-Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-FIRE"><img src="assets/cards/v2/CRAFT-FIRE.svg" width="420" alt="CRAFT-FIRE. 소방설비 설계 프로젝트. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-DreamPlus"><img src="assets/cards/v2/CRAFT-DreamPlus.svg" width="420" alt="CRAFT-DreamPlus. 다중 플롯과 XCLIP 프로젝트. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-PyroSim"><img src="assets/cards/v2/CRAFT-PyroSim.svg" width="420" alt="CRAFT-PyroSim. 3D 화재·연기 모델과 FDS 해석 입력 준비. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Pathfinder"><img src="assets/cards/v2/CRAFT-Pathfinder.svg" width="420" alt="CRAFT-Pathfinder. 보행자 이동과 피난 시나리오 비교. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Simulex"><img src="assets/cards/v2/CRAFT-Simulex.svg" width="420" alt="CRAFT-Simulex. 층별 피난 경로와 대피 시간 분석. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Contam"><img src="assets/cards/v2/CRAFT-Contam.svg" width="420" alt="CRAFT-Contam. 구역 간 공기 흐름과 오염물 이동 분석. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Ventus"><img src="assets/cards/v2/CRAFT-Ventus.svg" width="420" alt="CRAFT-Ventus. 환기·제연 모델링과 풍량·차압 분석. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Pipenet"><img src="assets/cards/v2/CRAFT-Pipenet.svg" width="420" alt="CRAFT-Pipenet. 배관망 구성과 유량·압력 해석. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-AutoCAD"><img src="assets/cards/v2/CRAFT-AutoCAD.svg" width="420" alt="CRAFT-AutoCAD. 도면 작성·편집과 반복 작업. 재현 후보 · 구현 전."></a>
+  <a href="https://github.com/Yfacine/CRAFT-Vehicle-Tracking"><img src="assets/cards/v2/CRAFT-Vehicle-Tracking.svg" width="420" alt="CRAFT-Vehicle-Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전."></a>
 </p>
 
 [CRAFT 재현 후보군 전체 보기 ↗](https://github.com/Yfacine/CRAFT#재현-후보군)
@@ -45,7 +45,7 @@
 ### 그 밖의 공개 저장소
 
 <p>
-  <a href="https://github.com/Yfacine/PASS_AI-FLY"><img src="assets/cards/v1/PASS_AI-FLY.svg" width="420" alt="PASS_AI-FLY. Simulex·Contam 학습 주제. 소개 문서만 공개."></a>
-  <a href="https://github.com/Yfacine/PASS_AI-MCP"><img src="assets/cards/v1/PASS_AI-MCP.svg" width="420" alt="PASS_AI-MCP. 공개 저장소 안내. 소개 문서만 공개."></a>
-  <a href="https://github.com/Yfacine/Asta-Profile"><img src="assets/cards/v1/Asta-Profile.svg" width="420" alt="Asta-Profile. 아스타 프로필 이미지 흑백·성장·픽셀 시안 30종. 디자인 자료 · 이미지 공개."></a>
+  <a href="https://github.com/Yfacine/PASS_AI-FLY"><img src="assets/cards/v2/PASS_AI-FLY.svg" width="420" alt="PASS_AI-FLY. Simulex·Contam 학습 주제. 소개 문서만 공개."></a>
+  <a href="https://github.com/Yfacine/PASS_AI-MCP"><img src="assets/cards/v2/PASS_AI-MCP.svg" width="420" alt="PASS_AI-MCP. 공개 저장소 안내. 소개 문서만 공개."></a>
+  <a href="https://github.com/Yfacine/Asta-Profile"><img src="assets/cards/v2/Asta-Profile.svg" width="420" alt="Asta-Profile. 아스타 프로필 이미지 흑백·성장·픽셀 시안 30종. 디자인 자료 · 이미지 공개."></a>
 </p>

@@ -40,7 +40,7 @@ Windows CLI 현황판은 작업의 여섯 단계와 MAIN·SUB 상태, 확인된 
 ### 그 밖의 공개 저장소
 
 <p>
-  <a href="https://github.com/Yfacine/OpenFly"><img src="https://raw.githubusercontent.com/Yfacine/Yfacine/main/assets/cards/v0.1/OpenFly.svg" width="420" alt="OpenFly. 분야별 학습과 평가·적용 플랫폼. 소개 문서만 공개."></a>
+  <a href="https://github.com/Yfacine/OpenFly"><img src="https://raw.githubusercontent.com/Yfacine/Yfacine/665ee7e/assets/cards/v0.1/OpenFly.svg" width="420" alt="OpenFly. 분야별 학습과 평가·적용 플랫폼. 소개 문서만 공개."></a>
   <a href="https://github.com/Yfacine/PASS_AI-MCP"><img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/PASS_AI-MCP.svg" width="420" alt="PASS_AI-MCP. 공개 저장소 안내. 소개 문서만 공개."></a>
   <a href="https://github.com/Yfacine/Asta-Profile"><img src="https://raw.githubusercontent.com/Yfacine/Yfacine/47e4666695a0e8b83fcdb2279e17ea4faecddb23/assets/cards/v0.1/Asta-Profile.svg" width="420" alt="Asta-Profile. 프로필 시안 30종과 저장소 삽화 13종. 디자인 자료 · 이미지 공개."></a>
 </p>

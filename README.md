@@ -1,7 +1,7 @@
 <p>
   <picture>
     <source media="(max-width: 600px)" srcset="assets/presentation/v0.1/engineering-overview-compact.webp">
-    <img src="assets/presentation/v0.1/engineering-overview.webp" width="1400" alt="Yfacine Engineering Software. 건축 설비, 화재·피난, 공기 흐름, 차량 궤적, CAD와 학습·연결을 아스타와 함께 표현한 개념도.">
+    <img src="assets/presentation/v0.1/engineering-overview.webp" width="1400" alt="OpenCraft로 실무를 재현하고, AI로 가능성을 넓히다. 건축 설비, 화재·피난, 공기 흐름, 차량 궤적, CAD, 초파리와 학습·연결을 표현한 개념도.">
   </picture>
 </p>
 

@@ -34,7 +34,7 @@ Windows CLI 현황판은 작업의 여섯 단계와 MAIN·SUB 상태, 확인된 
   <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Ventus.svg" width="420" alt="Craft-Ventus. 환기·제연 모델링과 풍량·차압 분석. 재현 후보 · 구현 전.">
   <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Pipenet.svg" width="420" alt="Craft-Pipenet. 배관망 구성과 유량·압력 해석. 재현 후보 · 구현 전.">
   <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-AutoCAD.svg" width="420" alt="Craft-AutoCAD. 도면 작성·편집과 반복 작업. 재현 후보 · 구현 전.">
-  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/269fcafd3bd9e0cd74cc035b87ee933686638a01/assets/cards/v0.1/CRAFT-Vehicle-Tracking.svg" width="420" alt="Craft-Vehicle Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전.">
+  <img src="https://raw.githubusercontent.com/Yfacine/Yfacine/5ea25fd480a0ec5662bae7f98c2bf3c5c8ac6a2d/assets/cards/v0.1/CRAFT-Vehicle-Tracking.svg" width="420" alt="Craft-Vehicle Tracking. 차량 회전 궤적과 통과 공간 검토. 재현 후보 · 구현 전.">
 </p>
 
 [카드 제작 및 배치 기준 v0.1](docs/card-guidelines.md)

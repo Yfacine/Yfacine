@@ -32,7 +32,7 @@ UNLINKED = {
 
 def render(row):
     slug, label, title, line1, line2, status, art = row
-    title_size = 48 if len(title) <= 17 else (39 if len(title) <= 20 else 31)
+    title_size = 48 if len(title) <= 17 else (39 if len(title) <= 23 else 31)
     cta = "공개 주소 확인 중" if slug in UNLINKED else "저장소 보기 ↗"
     art_data = b64encode((ROOT / "assets" / "card-illustrations" / "v0.1" / f"{art}.jpg").read_bytes()).decode("ascii")
     # The content is clipped to the card, while the canvas margins stay transparent.
